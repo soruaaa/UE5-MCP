@@ -2,7 +2,7 @@
 UPDATE: unfortunately we didnt move forward with the project due to time constraints. Feel free to use the docs.
 ## Overview
 
-UE5-MCP (Model Control Protocol) is designed to integrate AI-driven automation into Blender and Unreal Engine 5 (UE5) workflows. This project builds upon [BlenderMCP](https://github.com/ahujasid/blender-mcp) to provide an end-to-end pipeline for AI-driven game level creation, enhancing level design, asset management, and gameplay programming.
+UE5-MCP (Model Control Protocol) is designed to integrate AI-driven automation into Blender and Unreal Engine 5 (UE5) workflows. This project builds upon [BlenderMCP](https://github.com/soruaaa/UE5-MCP) to provide an end-to-end pipeline for AI-driven game level creation, enhancing level design, asset management, and gameplay programming.
 
 ## Features
 
@@ -37,7 +37,7 @@ UE5-MCP (Model Control Protocol) is designed to integrate AI-driven automation i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/UE5-MCP.git
+   git clone https://github.com/soruaaa/UE5-MCP.git
    ```
 2. Install dependencies:
    ```bash
